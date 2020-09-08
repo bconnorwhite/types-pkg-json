@@ -217,7 +217,7 @@ export type Scripts = {
   */
   postrestart?: string;
 } & {
-  [scriptName: string]: string;
+  [scriptName in string]?: string;
 };
 
 /**
