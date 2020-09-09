@@ -19,6 +19,8 @@ import {
 	PackageJSON
 } from "./types";
 
+export const fileName = "package.json";
+
 export {
 	JSONObject,
 	Primitive,
