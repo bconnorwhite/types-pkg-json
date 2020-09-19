@@ -87,6 +87,7 @@ function isJSONObject(object?: JSONValue): object is JSONObject;
 <h2>Dependencies<img align="right" alt="dependencies" src="https://img.shields.io/david/bconnorwhite/types-package-json.svg"></h2>
 
 - [types-json](https://www.npmjs.com/package/types-json): Type checking for JSON objects
+- [types-eslintrc](https://www.npmjs.com/package/types-eslintrc): Type checking for .eslintrc.json
 
 <br />
 
@@ -97,3 +98,11 @@ function isJSONObject(object?: JSONValue): object is JSONObject;
 <h2>License <img align="right" alt="license" src="https://img.shields.io/npm/l/types-pkg-json.svg"></h2>
 
 [MIT](https://opensource.org/licenses/MIT)
+
+<br />
+
+## Related Projects
+
+- [types-json](https://www.npmjs.com/package/types-json): Type checking for JSON objects
+- [types-tsconfig](https://www.npmjs.com/package/types-tsconfig): Type checking for tsconfig.json
+- [types-eslintrc](https://www.npmjs.com/package/types-eslintrc): Type checking for .eslintrc.json
