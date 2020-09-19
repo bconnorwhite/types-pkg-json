@@ -5249,10 +5249,22 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
+types-eslintrc@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/types-eslintrc/-/types-eslintrc-1.0.0.tgz#440701968c621ad9fcbae206348c555fd3487a58"
+  integrity sha512-EDJsMginqc1bFP1O3QyJKvWbdxPwyDbeJMw8TlQnvzt6zraGACh4fC07y9ZSCtHMARE0KIWLWPZvYmIxdMAgOw==
+  dependencies:
+    types-json "^1.2.0"
+
 types-json@^1.0.6, types-json@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/types-json/-/types-json-1.0.7.tgz#d7e929c3dc88c6362c445526338ad1c3e641cb39"
   integrity sha512-BzDzAIjrSrViEYQtCCjOemr5yggoUQE0oJGiVkMUE3yy5FNSZmWZqlB2DDLSm3VeE0hsj8snXVIHJmWKX0PtUQ==
+
+types-json@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/types-json/-/types-json-1.2.0.tgz#78323a7afa1d9e045999e36d57966d107931dfc4"
+  integrity sha512-lGcaoYhrVAHpP30kcz9BK9a+KOO++lq9hE9DQBn3OxjvF9/2vYwrdNZswKUsNiAZO2lEIUAZaHhf2QVEKF3eSg==
 
 typescript@^4.0.2:
   version "4.0.2"

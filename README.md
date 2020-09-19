@@ -62,7 +62,8 @@ import {
   TypeScriptConfiguration, // types, typings
   WorkspaceConfig, // packages, nohoist
   YarnConfiguration, // workspaces, flat, resolutions
-  JSPMConfiguration // jspm
+  JSPMConfiguration, // jspm
+  ESLintConfiguration // eslintConfig
 } from "types-pkg-json";
 ```
 

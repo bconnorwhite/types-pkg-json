@@ -1,4 +1,5 @@
 import { JSONObject } from "types-json";
+import { ESLintConfig } from "types-eslintrc";
 
 export {
   JSONObject
@@ -272,6 +273,10 @@ export type NonStandardEntryPoints = {
   sideEffects?: boolean | string[];
 }
 
+export {
+	ESLintConfig
+}
+
 export type TypeScriptConfiguration = {
   /**
   Location of the bundled TypeScript declaration file.
@@ -334,6 +339,13 @@ export type JSPMConfiguration = {
   JSPM configuration.
   */
   jspm?: PackageJSON;
+}
+
+export type ESLintConfiguration = {
+	/**
+	 * Configuration settings for eslint.
+	 */
+	eslintConfig?: ESLintConfig;
 }
 
 export type LicenseID = LiteralUnion<"MIT" | "ISC", string>;
@@ -583,4 +595,5 @@ NonStandardEntryPoints &
 TypeScriptConfiguration &
 YarnConfiguration &
 JSPMConfiguration &
-JSONObject;
+JSONObject &
+ESLintConfiguration;

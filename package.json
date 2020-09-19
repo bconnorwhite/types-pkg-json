@@ -34,6 +34,7 @@
     "prepublishOnly": "yarn run build"
   },
   "dependencies": {
+    "types-eslintrc": "^1.0.0",
     "types-json": "^1.0.7"
   },
   "devDependencies": {
