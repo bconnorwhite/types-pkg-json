@@ -1,45 +1,21 @@
-import { isJSONObject, JSONValue, JSONArray } from "types-json";
-import {
-	JSONObject,
-	Primitive,
-	LiteralUnion,
-	Person,
-	BugsLocation,
-	DirectoryLocations,
-	Scripts,
-	Dependencies,
-	Repository,
-	NonStandardEntryPoints,
-	TypeScriptConfiguration,
-	WorkspaceConfig,
-	WorkspacePattern,
-	YarnConfiguration,
-	JSPMConfiguration,
-	LicenseID,
-	PackageJSON
-} from "./types";
+export { isJSONObject, JSONObject, JSONValue, JSONArray } from "types-json";
+export { NonStandardEntryPoints, PackageJSON } from "./package-json";
+export { Primitive, LiteralUnion } from "./utils";
+export {
+  Person,
+  BugsLocation,
+  DirectoryLocations,
+  Scripts,
+  Dependencies,
+  Repository,
+  LicenseID
+} from "./fields";
+export {
+  TypeScriptConfiguration,
+  WorkspaceConfig,
+  WorkspacePattern,
+  YarnConfiguration,
+  JSPMConfiguration
+} from "./configuration";
 
 export const fileName = "package.json";
-
-export {
-	JSONObject,
-	Primitive,
-	LiteralUnion,
-	Person,
-	BugsLocation,
-	DirectoryLocations,
-	Scripts,
-	Dependencies,
-	Repository,
-	NonStandardEntryPoints,
-	TypeScriptConfiguration,
-	WorkspaceConfig,
-	WorkspacePattern,
-	YarnConfiguration,
-	JSPMConfiguration,
-	LicenseID,
-	PackageJSON,
-	JSONValue,
-	JSONArray,
-	isJSONObject
-}
