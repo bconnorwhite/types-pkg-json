@@ -3,14 +3,14 @@
   <a href="https://npmjs.com/package/types-pkg-json">
     <img alt="NPM" src="https://img.shields.io/npm/v/types-pkg-json.svg">
   </a>
-  <a href="https://github.com/bconnorwhite/types-package-json">
-    <img alt="TypeScript" src="https://img.shields.io/github/languages/top/bconnorwhite/types-package-json.svg">
+  <a href="https://github.com/bconnorwhite/types-pkg-json">
+    <img alt="TypeScript" src="https://img.shields.io/github/languages/top/bconnorwhite/types-pkg-json.svg">
   </a>
-  <a href='https://coveralls.io/github/bconnorwhite/types-package-json?branch=master'>
-    <img alt="Coverage Status" src="https://img.shields.io/coveralls/github/bconnorwhite/types-package-json.svg?branch=master">
+  <a href='https://coveralls.io/github/bconnorwhite/types-pkg-json?branch=master'>
+    <img alt="Coverage Status" src="https://img.shields.io/coveralls/github/bconnorwhite/types-pkg-json.svg?branch=master">
   </a>
-  <a href="https://github.com/bconnorwhite/types-package-json">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/bconnorwhite/types-package-json?label=Stars%20Appreciated%21&style=social">
+  <a href="https://github.com/bconnorwhite/types-pkg-json">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/bconnorwhite/types-pkg-json?label=Stars%20Appreciated%21&style=social">
   </a>
   <a href="https://twitter.com/bconnorwhite">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bconnorwhite.svg?label=%40bconnorwhite&style=social">
@@ -87,14 +87,14 @@ function isJSONObject(object?: JSONValue): object is JSONObject;
 
 <br />
 
-<h2>Dependencies<img align="right" alt="dependencies" src="https://img.shields.io/david/bconnorwhite/types-package-json.svg"></h2>
+<h2>Dependencies<img align="right" alt="dependencies" src="https://img.shields.io/david/bconnorwhite/types-pkg-json.svg"></h2>
 
 - [types-json](https://www.npmjs.com/package/types-json): Type checking for JSON objects
 - [types-eslintrc](https://www.npmjs.com/package/types-eslintrc): Type checking for .eslintrc.json
 
 <br />
 
-<h2>Dev Dependencies<img align="right" alt="David" src="https://img.shields.io/david/dev/bconnorwhite/types-package-json.svg"></h2>
+<h2>Dev Dependencies<img align="right" alt="David" src="https://img.shields.io/david/dev/bconnorwhite/types-pkg-json.svg"></h2>
 
 - [@bconnorwhite/bob](https://www.npmjs.com/package/@bconnorwhite/bob): Bob is a toolkit for TypeScript projects
 
