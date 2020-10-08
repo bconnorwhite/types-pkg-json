@@ -33,6 +33,7 @@
     "commit": "bob commit",
     "lint": "bob lint",
     "release": "bob publish",
+    "test": "bob test"
   },
   "dependencies": {
     "types-eslintrc": "^1.0.0",

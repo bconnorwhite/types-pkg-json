@@ -6,6 +6,8 @@
   <a href="https://github.com/bconnorwhite/types-package-json">
     <img alt="TypeScript" src="https://img.shields.io/github/languages/top/bconnorwhite/types-package-json.svg">
   </a>
+  <a href='https://coveralls.io/github/bconnorwhite/types-package-json?branch=master'>
+    <img alt="Coverage Status" src="https://img.shields.io/coveralls/github/bconnorwhite/types-package-json.svg?branch=master">
   </a>
   <a href="https://github.com/bconnorwhite/types-package-json">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/bconnorwhite/types-package-json?label=Stars%20Appreciated%21&style=social">
