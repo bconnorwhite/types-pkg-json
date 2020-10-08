@@ -1,13 +1,14 @@
 <div align="center">
   <h1>types-pkg-json</h1>
   <a href="https://npmjs.com/package/types-pkg-json">
-    <img alt="npm" src="https://img.shields.io/npm/v/types-pkg-json.svg">
+    <img alt="NPM" src="https://img.shields.io/npm/v/types-pkg-json.svg">
   </a>
   <a href="https://github.com/bconnorwhite/types-package-json">
-    <img alt="typescript" src="https://img.shields.io/github/languages/top/bconnorwhite/types-package-json.svg">
+    <img alt="TypeScript" src="https://img.shields.io/github/languages/top/bconnorwhite/types-package-json.svg">
+  </a>
   </a>
   <a href="https://github.com/bconnorwhite/types-package-json">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/bconnorwhite/types-package-json?label=Stars%20Appreciated%21&style=social">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/bconnorwhite/types-package-json?label=Stars%20Appreciated%21&style=social">
   </a>
   <a href="https://twitter.com/bconnorwhite">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bconnorwhite.svg?label=%40bconnorwhite&style=social">
