@@ -57,7 +57,7 @@ import {
 } from "types-pkg-json";
 ```
 
-#### Intersection Types
+#### Configuration Types
 
 ```ts
 import {
