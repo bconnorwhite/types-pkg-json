@@ -38,7 +38,7 @@ npm install types-pkg-json
 ### Types
 
 ```ts
-import { fileName, PackageJSON } from "types-pkg-json"; // Type for NPM's package.json file
+import { PackageJSON, fileName, PackageJSONFileName } from "types-pkg-json"; // Type for NPM's package.json file
 
 console.log(fileName); // "package.json"
 ```

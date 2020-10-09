@@ -18,4 +18,6 @@ export {
   JSPMConfiguration
 } from "./configuration";
 
-export const fileName = "package.json";
+export type PackageJSONFileName = "package.json";
+
+export const fileName: PackageJSONFileName = "package.json";
