@@ -8,10 +8,10 @@
     "email": "connor.bcw@gmail.com",
     "url": "https://connorwhite.org"
   },
-  "homepage": "https://connorwhite.org/github/types-package-json",
+  "homepage": "https://connorwhite.org/github/types-pkg-json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bconnorwhite/types-package-json.git"
+    "url": "git+https://github.com/bconnorwhite/types-pkg-json.git"
   },
   "keywords": [
     "type",
