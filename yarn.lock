@@ -7981,7 +7981,7 @@ types-eslintrc@^1.0.0:
   dependencies:
     types-json "^1.2.0"
 
-types-eslintrc@^1.0.1:
+types-eslintrc@^1.0.1, types-eslintrc@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/types-eslintrc/-/types-eslintrc-1.0.3.tgz#b277d301caca6c330477cbaa67bf6f79ac3d6fee"
   integrity sha512-zKTR6aKHEudQpl+JoZjS3qh0B5IzSpQK/BCpYBECujcnKtqL87DJJ1sJKe5B8k/y8/UJ5sukq42QDvlaJyCO2w==

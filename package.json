@@ -36,8 +36,8 @@
     "test": "bob test"
   },
   "dependencies": {
-    "types-eslintrc": "^1.0.0",
-    "types-json": "^1.0.7"
+    "types-eslintrc": "^1.0.3",
+    "types-json": "^1.2.2"
   },
   "devDependencies": {
     "@bconnorwhite/bob": "^2.9.2"
